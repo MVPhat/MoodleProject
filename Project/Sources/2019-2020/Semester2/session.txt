@@ -1,0 +1,15 @@
+MON
+S1
+TUE
+S1
+0
+MON
+S2
+TUE
+S2
+0
+MON
+S3
+TUE
+S3
+0
